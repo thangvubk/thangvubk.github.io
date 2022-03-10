@@ -250,6 +250,7 @@ pre {
 /**
  * Tables
  */
+/*
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
@@ -281,4 +282,9 @@ table {
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
+} */
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
 }
