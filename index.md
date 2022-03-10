@@ -38,7 +38,7 @@ I am currently a first-year PhD student under the supervision of Professor Chang
 ## Selected publications
 <table>
   <tr>
-    <td><a href="https://arxiv.org/abs/1909.06720"><img width="300" src="/images/NeurIPS2019_CascadeRPN.JPG"></a></td>
+    <td><a href="https://arxiv.org/abs/1909.06720"><img width="200" src="/images/NeurIPS2019_CascadeRPN.JPG"></a></td>
     <td>
       <h4><a href="https://arxiv.org/abs/1909.06720">Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution</a></h4>
       <p><b>Thang Vu</b>, Hyunjun Chang, Chang D. Yoo Yoo<br>
@@ -47,7 +47,7 @@ I am currently a first-year PhD student under the supervision of Professor Chang
     </td>
   </tr>
   <tr>
-    <td><a href="http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf"><img width="150" src="/images/ECCV2018_FEQE.JPG"></a></td>
+    <td><a href="http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf"><img width="200" src="/images/ECCV2018_FEQE.JPG"></a></td>
     <td>
       <h4><a href="http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Fast_and_Efficient_Image_Quality_Enhancement_via_Desubpixel_Convolutional_Neural_ECCVW_2018_paper.pdf">Fast and Efficient Image Quality Enhancement via Desubpixel Convolutional Neural Networks</a></h4>
       <p><b>Thang Vu</b>, Cao V. Nguyen, Trung X. Pham, Tung M. Luu, Chang D. Yoo<br>
@@ -56,7 +56,7 @@ I am currently a first-year PhD student under the supervision of Professor Chang
     </td>
   </tr>
   <tr>
-    <td><a href="http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Perception-Enhanced_Image_Super-Resolution_via_Relativistic_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf"><img width="150" src="/images/ECCV2018_PESR.JPG"></a></td>
+    <td><a href="http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Perception-Enhanced_Image_Super-Resolution_via_Relativistic_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf"><img width="200" src="/images/ECCV2018_PESR.JPG"></a></td>
     <td>
       <h4><a href="http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Vu_Perception-Enhanced_Image_Super-Resolution_via_Relativistic_Generative_Adversarial_Networks_ECCVW_2018_paper.pdf">Perception-Enhanced Image Super-Resolution via Relativistic Generative Adversarial Networks</a></h4>
       <p><b>Thang Vu</b>, Tung M. Luu, Chang D. Yoo<br>
