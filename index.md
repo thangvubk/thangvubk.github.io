@@ -38,7 +38,7 @@ I am currently a first-year PhD student under the supervision of Professor Chang
 ## Selected publications
 <table>
   <tr>
-    <td><a href="https://arxiv.org/abs/1909.06720"><img width="150" src="/images/NeurIPS2019_CascadeRPN.JPG"></a></td>
+    <td><a href="https://arxiv.org/abs/1909.06720"><img width="300" src="/images/NeurIPS2019_CascadeRPN.JPG"></a></td>
     <td>
       <h4><a href="https://arxiv.org/abs/1909.06720">Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution</a></h4>
       <p><b>Thang Vu</b>, Hyunjun Chang, Chang D. Yoo Yoo<br>
