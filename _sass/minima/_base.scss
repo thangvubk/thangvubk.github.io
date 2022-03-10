@@ -256,10 +256,8 @@ table {
   width: 100%;
   text-align: $table-text-align;
   color: $table-text-color;
-  border-collapse: collapse;
-  border-collapse: collapse;
-	border-spacing: 0;
-  /*border: 1px solid $table-border-color;*/
+  border-collapse: collapse
+  border: 1px solid $table-border-color;
   tr {
     &:nth-child(even) {
       background-color: $table-zebra-color;
