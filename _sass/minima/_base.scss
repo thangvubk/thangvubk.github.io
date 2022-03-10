@@ -32,6 +32,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   overflow-wrap: break-word;
+  width: 1000px;
 }
 
 
@@ -274,8 +275,4 @@ table {
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
-}
-
-body {
-  width: 1200px;
 }
