@@ -68,9 +68,9 @@ I am currently a first-year PhD student under the supervision of Professor Chang
   </tr>
   
   <tr>
-    <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506249"><img width="200" src="/images/CCFDM.png"></a></td>
+    <td><a href="https://arxiv.org/pdf/2103.08255.pdf"><img width="200" src="/images/CCFDM.png"></a></td>
     <td>
-      <h4><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506249">Sample-efficient Reinforcement Learning Representation Learning with Curiosity Contrastive Forward Dynamics Model</a></h4>
+      <h4><a href="https://arxiv.org/pdf/2103.08255.pdf">Sample-efficient Reinforcement Learning Representation Learning with Curiosity Contrastive Forward Dynamics Model</a></h4>
       <p>Thanh Nguyen*, Tung M. Luu*, <b>Thang Vu</b>, Chang D. Yoo Yoo<br>
         IROS, 2021.
       </p>
