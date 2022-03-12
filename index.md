@@ -7,6 +7,16 @@
 #
 layout: home
 ---
+<table>
+  <tr>
+    <td><img width="200" height="150" src="/images/Logo_Hust.png"></td>
+    <td>
+      <p>I am currently a third-year PhD student under the supervision of Professor Chang D. Yoo in AIM lab, Korea Advanced Institute of Science and Technology (KAIST). My research involves in computer vision and deep learning. 
+      </p>
+    </td>
+ </tr>
+</table>
+
 
 
 I am currently a third-year PhD student under the supervision of Professor Chang D. Yoo in AIM lab, Korea Advanced Institute of Science and Technology (KAIST). My research involves in computer vision and deep learning. 
