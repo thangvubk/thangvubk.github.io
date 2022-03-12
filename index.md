@@ -48,7 +48,7 @@ layout: home
     <td><a href="https://arxiv.org/pdf/2203.01509.pdf"><img width="300" src="/images/SoftGroup.png"></a></td>
     <td>
       <h4><a href="https://arxiv.org/pdf/2203.01509.pdf">SoftGroup for 3D Instance Segmentation on Point Clouds</a></h4>
-      <p><b>Thang Vu</b>, Kookhoi Kim, Tung M. Luu, Thanh Nguyen, Chang D. Yoo Yoo<br>
+      <p><b>Thang Vu</b>, Kookhoi Kim, Tung M. Luu, Thanh Nguyen, Chang D. Yoo<br>
         CVPR, 2022.
       </p>
     </td>
@@ -58,7 +58,7 @@ layout: home
     <td><a href="https://arxiv.org/pdf/2012.10150.pdf"><img width="300" src="/images/SCNet.png"></a></td>
     <td>
       <h4><a href="https://arxiv.org/pdf/2012.10150.pdf">SCNet: Training Inference Sample Consistency for Instance Segmentation</a></h4>
-      <p><b>Thang Vu</b>, Haeyong Kang, Chang D. Yoo Yoo<br>
+      <p><b>Thang Vu</b>, Haeyong Kang, Chang D. Yoo<br>
         AAAI, 2021.
       </p>
     </td>
@@ -68,7 +68,7 @@ layout: home
     <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506249"><img width="300" src="/images/SphereRPN.png"></a></td>
     <td>
       <h4><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506249">SphereRPN: Learning Spheres For High-Quality Region Proposals On 3d Point Clouds Object Detection</a></h4>
-      <p><b>Thang Vu</b>, Kookhoi Kim, Tung M. Luu, Thanh Nguyen, Chang D. Yoo Yoo<br>
+      <p><b>Thang Vu</b>, Kookhoi Kim, Tung M. Luu, Thanh Nguyen, Chang D. Yoo<br>
         ICIP, 2021.
       </p>
     </td>
@@ -78,7 +78,7 @@ layout: home
     <td><a href="https://arxiv.org/pdf/2103.08255.pdf"><img width="300" src="/images/CCFDM.png"></a></td>
     <td>
       <h4><a href="https://arxiv.org/pdf/2103.08255.pdf">Sample-efficient Reinforcement Learning Representation Learning with Curiosity Contrastive Forward Dynamics Model</a></h4>
-      <p>Thanh Nguyen*, Tung M. Luu*, <b>Thang Vu</b>, Chang D. Yoo Yoo<br>
+      <p>Thanh Nguyen*, Tung M. Luu*, <b>Thang Vu</b>, Chang D. Yoo<br>
         IROS, 2021.
       </p>
     </td>
@@ -88,7 +88,7 @@ layout: home
     <td><a href="https://arxiv.org/abs/1909.06720"><img width="300" src="/images/NeurIPS2019_CascadeRPN.JPG"></a></td>
     <td>
       <h4><a href="https://arxiv.org/abs/1909.06720">Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution</a></h4>
-      <p><b>Thang Vu</b>, Hyunjun Chang, Chang D. Yoo Yoo<br>
+      <p><b>Thang Vu</b>, Hyunjun Chang, Chang D. Yoo<br>
         NeurIPS, 2019. (<b>Spotlight</b>)
       </p>
     </td>
