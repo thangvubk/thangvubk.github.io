@@ -12,7 +12,6 @@ layout: home
     <td><img width="300" src="/images/avatar_new.jpeg"></td>
     <td>
       <p>I am currently a third-year PhD student under the supervision of Professor Chang D. Yoo in AIM lab, Korea Advanced Institute of Science and Technology (KAIST). My research involves in computer vision and deep learning. <br>
-      <a ><img width="20"  src="/images/cv-icon.jpg" /> CV</a>&emsp;
       <a href="https://github.com/thangvubk"><img width="20"  src="/images/Git-Icon.png" /> Github</a>&emsp;
       </p>
     </td>
